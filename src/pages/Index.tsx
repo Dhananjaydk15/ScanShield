@@ -11,7 +11,7 @@ const Index = () => {
       <div className="max-w-6xl mx-auto space-y-12">
         <header className="text-center space-y-4 py-12">
           <h1 className="text-5xl font-bold tracking-tight">
-            Network Security Scanner
+            Network Security Scanner BY DK
           </h1>
           <p className="text-muted-foreground text-xl max-w-2xl mx-auto">
             Comprehensive security analysis tools to identify vulnerabilities and secure your infrastructure
